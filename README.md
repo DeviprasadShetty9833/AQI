@@ -23,5 +23,17 @@
 
 
 
-Key features include Real-time data, detailed Pollutant breakdowns through Application Programming Interface (APIs), Data analytics such as Regional Comparisons, Historical Trend analysis, Geospatial Analysis and Location-specific Health recommendations. The admin panel provides control over Station data, Alerts, and Insights through Graphical dashboards, empowering authorities with transparency and actionable intelligence. 
+# Key features 
+
+#### User
+- Real-time data
+- Pollutant breakdowns through Application Programming Interface (APIs)
+- Data analytics such as Regional Comparisons, Historical Trend analysis, Geospatial Analysis
+- Location-specific Health recommendations.
+
+#### Admin
+- Manage Station data
+- Threshold Breach Alerts
+- Insights through Graphical dashboards
+- Report Generation
 
