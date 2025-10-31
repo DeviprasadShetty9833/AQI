@@ -15,6 +15,8 @@
 
 ---
 
-# AQI
+# Abstract 
 
-# NPI
+"EcoGauge," a web-based real-time environmental monitoring dashboard that integrates and visualizes data from a network of monitoring stations across Mumbai, displaying both the Air Quality Index (AQI) and the Noise Pollution Index (NPI) on an interactive map. Key features include Real-time data, detailed pollutant breakdowns through Application Programming Interface (APIs), data analytics such as regional comparisons, historical trend analysis, geospatial analysis and location-specific health recommendations.
+The admin panel provides control over station data, alerts, and insights through graphical dashboards, empowering authorities with transparency and actionable intelligence. 
+
