@@ -15,7 +15,13 @@
 
 ---
 
-# Abstract 
+# Overview 
 
-**EcoGauge** is a web-based real-time environmental monitoring dashboard that integrates and visualizes data from a network of monitoring stations across Mumbai, displaying both the Air Quality Index (AQI) and the Noise Pollution Index (NPI) on an interactive map. Key features include Real-time data, detailed Pollutant breakdowns through Application Programming Interface (APIs), Data analytics such as Regional Comparisons, Historical Trend analysis, Geospatial Analysis and Location-specific Health recommendations. The admin panel provides control over Station data, Alerts, and Insights through Graphical dashboards, empowering authorities with transparency and actionable intelligence. 
+**EcoGauge** is a web-based real-time environmental monitoring dashboard that integrates and visualizes data from a network of monitoring stations across Mumbai, displaying both the Air Quality Index (AQI) and the Noise Pollution Index (NPI) on an interactive map. This project aims to design and implement a unified, real-time monitoring dashboard that seamlessly integrates and visualizes both Air Quality Index (AQI) and Noise Pollution Index (NPI) data across the Mumbai region. The system focuses on translating complex environmental data into a visually engaging and user-friendly interface, featuring an interactive geospatial map, detailed data cards, and historical trend charts for comprehensive analysis. By providing location-specific, real-time data along with actionable health recommendations, the dashboard empowers citizens to make informed daily decisions that help mitigate personal health risks. Furthermore, the platform serves as a valuable tool for researchers, policymakers, and urban planners, promoting environmental awareness and enabling data-driven strategies for building a cleaner, quieter, and healthier city.
+
+
+
+
+
+Key features include Real-time data, detailed Pollutant breakdowns through Application Programming Interface (APIs), Data analytics such as Regional Comparisons, Historical Trend analysis, Geospatial Analysis and Location-specific Health recommendations. The admin panel provides control over Station data, Alerts, and Insights through Graphical dashboards, empowering authorities with transparency and actionable intelligence. 
 
