@@ -38,5 +38,5 @@
 - Report Generation
 
 # Contributors
-- 
+- [Deviprasad Shetty](https://github.com/DeviprasadShetty9833)
 
