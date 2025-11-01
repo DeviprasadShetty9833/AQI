@@ -35,6 +35,155 @@
 
 # Project Structure
 ```html
+└── EcoGauge
+    ├── HELP.md
+    ├── mvnw
+    ├── mvnw.cmd
+    ├── pom.xml
+    ├── src
+    │   ├── main
+    │   │   ├── java
+    │   │   │   └── com
+    │   │   │       └── rupam
+    │   │   │           └── ecogauge
+    │   │   │               ├── config
+    │   │   │               │   └── DataSeeder.java
+    │   │   │               ├── controller
+    │   │   │               │   ├── AuthController.java
+    │   │   │               │   ├── DashboardController.java
+    │   │   │               │   ├── DataRestController.java
+    │   │   │               │   ├── MapPageController.java
+    │   │   │               │   ├── RankingPageController.java
+    │   │   │               │   └── UserController.java
+    │   │   │               ├── dto
+    │   │   │               │   ├── LoginRequest.java
+    │   │   │               │   ├── PasswordResetPerform.java
+    │   │   │               │   ├── PasswordResetRequest.java
+    │   │   │               │   └── RegisterRequest.java
+    │   │   │               ├── EcoGaugeApplication.java
+    │   │   │               ├── model
+    │   │   │               │   ├── AuthProvider.java
+    │   │   │               │   ├── Feedback.java
+    │   │   │               │   ├── StationData.java
+    │   │   │               │   └── User.java
+    │   │   │               ├── repository
+    │   │   │               │   ├── FeedbackRepository.java
+    │   │   │               │   ├── StationDataRepository.java
+    │   │   │               │   └── UserRepository.java
+    │   │   │               ├── security
+    │   │   │               │   ├── CustomAuthenticationSuccessHandler.java
+    │   │   │               │   └── SecurityConfig.java
+    │   │   │               └── service
+    │   │   │                   ├── AuthService.java
+    │   │   │                   ├── CustomOAuth2UserService.java
+    │   │   │                   └── CustomUserDetailsService.java
+    │   │   └── resources
+    │   │       ├── application.properties
+    │   │       ├── static
+    │   │       │   ├── About_Us.html
+    │   │       │   ├── AQI_Home.html
+    │   │       │   ├── AQI_MAP.html
+    │   │       │   ├── Contact_Us.html
+    │   │       │   ├── dashboard.html
+    │   │       │   ├── feedback.html
+    │   │       │   ├── google-auth.html
+    │   │       │   ├── Landing_Page.html
+    │   │       │   ├── login.html
+    │   │       │   ├── NOISE_MAP.html
+    │   │       │   ├── ranking.html
+    │   │       │   ├── request-reset.html
+    │   │       │   ├── reset-password.html
+    │   │       │   ├── signup.html
+    │   │       │   └── user_ranking.html
+    │   │       └── templates
+    │   └── test
+    │       └── java
+    │           └── com
+    │               └── rupam
+    │                   └── ecogauge
+    │                       └── EcoGaugeApplicationTests.java
+    └── target
+        ├── classes
+        │   ├── application.properties
+        │   ├── com
+        │   │   └── rupam
+        │   │       └── ecogauge
+        │   │           ├── config
+        │   │           │   └── DataSeeder.class
+        │   │           ├── controller
+        │   │           │   ├── AuthController.class
+        │   │           │   ├── DashboardController.class
+        │   │           │   ├── DataRestController.class
+        │   │           │   ├── MapPageController.class
+        │   │           │   ├── RankingPageController.class
+        │   │           │   └── UserController.class
+        │   │           ├── dto
+        │   │           │   ├── LoginRequest.class
+        │   │           │   ├── PasswordResetPerform.class
+        │   │           │   ├── PasswordResetRequest.class
+        │   │           │   └── RegisterRequest.class
+        │   │           ├── EcoGaugeApplication.class
+        │   │           ├── model
+        │   │           │   ├── AuthProvider.class
+        │   │           │   ├── Feedback.class
+        │   │           │   ├── StationData.class
+        │   │           │   └── User.class
+        │   │           ├── repository
+        │   │           │   ├── FeedbackRepository.class
+        │   │           │   ├── StationDataRepository.class
+        │   │           │   └── UserRepository.class
+        │   │           ├── security
+        │   │           │   ├── CustomAuthenticationSuccessHandler.class
+        │   │           │   └── SecurityConfig.class
+        │   │           └── service
+        │   │               ├── AuthService.class
+        │   │               ├── CustomOAuth2UserService.class
+        │   │               └── CustomUserDetailsService.class
+        │   ├── static
+        │   │   ├── About_Us.html
+        │   │   ├── AQI_Home.html
+        │   │   ├── AQI_MAP.html
+        │   │   ├── Contact_Us.html
+        │   │   ├── dashboard.html
+        │   │   ├── feedback.html
+        │   │   ├── google-auth.html
+        │   │   ├── Landing_Page.html
+        │   │   ├── login.html
+        │   │   ├── maps
+        │   │   ├── NOISE_MAP.html
+        │   │   ├── ranking.html
+        │   │   ├── request-reset.html
+        │   │   ├── reset-password.html
+        │   │   ├── signup.html
+        │   │   └── user_ranking.html
+        │   └── templates
+        ├── generated-sources
+        │   └── annotations
+        ├── generated-test-sources
+        │   └── test-annotations
+        ├── maven-status
+        │   └── maven-compiler-plugin
+        │       ├── compile
+        │       │   └── default-compile
+        │       │       ├── createdFiles.lst
+        │       │       └── inputFiles.lst
+        │       └── testCompile
+        │           └── default-testCompile
+        │               ├── createdFiles.lst
+        │               └── inputFiles.lst
+        └── test-classes
+            └── com
+                └── rupam
+                    └── ecogauge
+                        └── EcoGaugeApplicationTests.class
+
+52 directories, 90 files
+```
+
+
+```html
+Tree structure Example
+
 EcoGauge/
 │
 ├── 📂 frontend/                       # 🌐 User Interface
