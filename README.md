@@ -37,7 +37,7 @@
 ```html
 EcoGauge-AQI-NPI-Dashboard/
 │
-├── frontend/                          # 🌐 User Interface
+├── 📂 frontend/                          # 🌐 User Interface
 │   ├── index.html                     # Landing Page (AQI + NPI Overview)
 │   ├── login.html                     # Login/Signup
 │   ├── aqi_home.html                  # AQI Dashboard (graphs, cards, facts)
@@ -68,7 +68,7 @@ EcoGauge-AQI-NPI-Dashboard/
 │       └── data_samples/              # Example data for demos
 
 │
-├── backend/                           # ☁️ Spring Boot Backend
+├── 📂 backend/                           # ☁️ Spring Boot Backend
 │   ├── src/
 │   │   ├── main/java/com/ecogauge/
 │   │   │   ├── controller/            # REST controllers
@@ -110,7 +110,7 @@ EcoGauge-AQI-NPI-Dashboard/
 │   └── Dockerfile                     # For container deployment
 
 │
-├── predictive_engine/                 # 🧠 ML Model for Forecasting
+├── 📂 predictive_engine/                 # 🧠 ML Model for Forecasting
 │   ├── data/
 │   │   ├── historical_aqi.csv
 │   │   ├── historical_npi.csv
