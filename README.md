@@ -19,10 +19,6 @@
 
 **EcoGauge** is a web-based real-time environmental monitoring dashboard that integrates and visualizes data from a network of monitoring stations across Mumbai, displaying both the Air Quality Index (AQI) and the Noise Pollution Index (NPI) on an interactive map. This project aims to design and implement a unified, real-time monitoring dashboard that seamlessly integrates and visualizes both Air Quality Index (AQI) and Noise Pollution Index (NPI) data across the Mumbai region. The system focuses on translating complex environmental data into a visually engaging and user-friendly interface, featuring an interactive geospatial map, detailed data cards, and historical trend charts for comprehensive analysis. By providing location-specific, real-time data along with actionable health recommendations, the dashboard empowers citizens to make informed daily decisions that help mitigate personal health risks. Furthermore, the platform serves as a valuable tool for researchers, policymakers, and urban planners, promoting environmental awareness and enabling data-driven strategies for building a cleaner, quieter, and healthier city.
 
-
-
-
-
 # Key features 
 
 #### User
@@ -36,6 +32,126 @@
 - Threshold Breach Alerts
 - Insights through Graphical dashboards
 - Report Generation
+
+# Project Structure
+```html
+EcoGauge-AQI-NPI-Dashboard/
+│
+├── frontend/                          # 🌐 User Interface
+│   ├── index.html                     # Landing Page (AQI + NPI Overview)
+│   ├── login.html                     # Login/Signup
+│   ├── aqi_home.html                  # AQI Dashboard (graphs, cards, facts)
+│   ├── npi_home.html                  # NPI Dashboard (graphs, cards)
+│   ├── aqi_map.html                   # Interactive AQI Map
+│   ├── npi_map.html                   # Interactive NPI Map
+│   ├── ranking.html                   # City/Station Rankings
+│   ├── feedback.html                  # User feedback form
+│   ├── admin_dashboard.html           # Admin dashboard with analytics
+│   │
+│   ├── css/
+│   │   ├── style.css                  # Global styling
+│   │   ├── map.css                    # Map-specific styles
+│   │   └── dashboard.css              # Admin dashboard styles
+│   │
+│   ├── js/
+│   │   ├── main.js                    # Core frontend logic (fetch APIs, UI updates)
+│   │   ├── map.js                     # Leaflet/Mapbox AQI map logic
+│   │   ├── ranking.js                 # Ranking filters, sorting
+│   │   ├── feedback.js                # Feedback submission
+│   │   ├── admin.js                   # Admin analytics charts, filters
+│   │   ├── chart.js                   # Chart.js graphs for AQI/NPI
+│   │   └── predictive.js              # Fetch forecast data from ML backend
+│   │
+│   └── assets/
+│       ├── images/                    # All images (banners, icons)
+│       ├── icons/                     # AQI/NPI icon sets
+│       └── data_samples/              # Example data for demos
+
+│
+├── backend/                           # ☁️ Spring Boot Backend
+│   ├── src/
+│   │   ├── main/java/com/ecogauge/
+│   │   │   ├── controller/            # REST controllers
+│   │   │   │   ├── AQIController.java
+│   │   │   │   ├── NPIController.java
+│   │   │   │   ├── FeedbackController.java
+│   │   │   │   ├── AdminController.java
+│   │   │   │   └── PredictionController.java
+│   │   │   │
+│   │   │   ├── model/                 # Entity classes (tables)
+│   │   │   │   ├── Station.java
+│   │   │   │   ├── AQIData.java
+│   │   │   │   ├── NPIData.java
+│   │   │   │   ├── Feedback.java
+│   │   │   │   └── User.java
+│   │   │   │
+│   │   │   ├── repository/            # JPA interfaces
+│   │   │   │   ├── AQIRepository.java
+│   │   │   │   ├── NPIRepository.java
+│   │   │   │   └── FeedbackRepository.java
+│   │   │   │
+│   │   │   ├── service/               # Business logic layer
+│   │   │   │   ├── AQIService.java
+│   │   │   │   ├── NPIService.java
+│   │   │   │   ├── FeedbackService.java
+│   │   │   │   └── PredictionService.java
+│   │   │   │
+│   │   │   ├── config/                # Security, API, and CORS settings
+│   │   │   │   ├── WebSecurityConfig.java
+│   │   │   │   └── ApiConfig.java
+│   │   │   │
+│   │   │   └── EcoGaugeApplication.java
+│   │   │
+│   │   └── resources/
+│   │       ├── application.properties # DB credentials, API keys
+│   │       └── static/ & templates/   # Optional if using Thymeleaf
+│   │
+│   ├── pom.xml                        # Spring Boot dependencies
+│   └── Dockerfile                     # For container deployment
+
+│
+├── predictive_engine/                 # 🧠 ML Model for Forecasting
+│   ├── data/
+│   │   ├── historical_aqi.csv
+│   │   ├── historical_npi.csv
+│   │   └── weather_data.csv
+│   │
+│   ├── model/
+│   │   ├── aqi_model.pkl              # Trained AQI forecast model
+│   │   ├── npi_model.pkl              # Trained NPI forecast model
+│   │   └── preprocessing_pipeline.pkl
+│   │
+│   ├── scripts/
+│   │   ├── train_model.py             # ML training script
+│   │   ├── predict_aqi.py             # Prediction logic
+│   │   └── predict_npi.py
+│   │
+│   ├── api/
+│   │   └── predictive_server.py       # Flask app serving predictions via REST API
+│   │
+│   ├── requirements.txt               # Python dependencies (Flask, sklearn, pandas)
+│   └── README.md
+
+│
+├── database/                          # 🗄 DB scripts
+│   ├── schema.sql                     # Create tables
+│   ├── seed_data.sql                  # Dummy AQI/NPI data
+│   └── queries.sql                    # Common queries
+
+│
+├── docs/                              # 📜 Documentation
+│   ├── system_architecture.txt
+│   ├── flowchart.txt
+│   ├── ER_diagram.txt
+│   ├── presentation_script.txt
+│   └── poster_content.txt
+
+│
+└── README.md                          # Project overview, setup instructions
+
+```
+
+
 
 # Contributors
 - [Deviprasad Shetty](https://github.com/DeviprasadShetty9833)
