@@ -185,5 +185,5 @@ EcoGauge/
 - API Development: Create public API for your aggregated processed data that other developers or researchers could use
 
 # Contributors
-- [Deviprasad Shetty](https://github.com/DeviprasadShetty9833)
-- [Rupam Singh](https://github.com/Rupam0990)
+- [Deviprasad Shetty](https://github.com/DeviprasadShetty9833) - Frontend & Backend
+- [Rupam Singh](https://github.com/Rupam0990) - Database & Backend
