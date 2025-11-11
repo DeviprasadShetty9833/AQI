@@ -166,7 +166,14 @@ EcoGauge/
 
 ```
 
+# Future Scope 
 
+- Geographic Expansion: Scale the platform to include other major cities in Maharashtra (Pune, Nagpur) or across India
+- Mobile App: Develop native iOS and Android applications for better performance, offline capabilities (limited), and push notifications.
+- Public Transport Suggestions: Suggest routes with lower pollution noise exposure based on real-time data.
+- Layer Toggling: Allow users to switch between viewing AQI, Noise, Traffic, Weather layers on the map.
+- User Accounts: Allow users to save favorite locations, customize their dashboard view,
+- API Development: Create public API for your aggregated processed data that other developers or researchers could use
 
 # Contributors
 - [Deviprasad Shetty](https://github.com/DeviprasadShetty9833)
