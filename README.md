@@ -50,6 +50,8 @@
 
 # Tech Stack
 
+[![Tech_Stack](https://skillicons.dev/icons?i=java,Springboot,html,css,js,mysql)](https://skillicons.dev)
+
 # Project Structure
 
 - [Structure](https://github.com/DeviprasadShetty9833/EcoGauge/blob/54f6c85e7c478bc6f42c2846425ad186341f1bb6/assets/docs/Structure.txt)
