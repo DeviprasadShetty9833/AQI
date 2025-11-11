@@ -56,7 +56,7 @@
 [![Tech_Stack](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql)](https://skillicons.dev)
 
 ```
-Java, SpringBoot, Html, CSS, Js, MySQL, OAuth 2.0
+Java, SpringBoot, Html, CSS, Js, MySQL, SpringSecurity, OAuth 2.0
 ```
 
 # Project Structure
