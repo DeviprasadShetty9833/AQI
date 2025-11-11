@@ -50,7 +50,7 @@
 
 # Tech Stack
 
-[![Tech_Stack](https://skillicons.dev/icons?i=java,Springboot,html,css,js,mysql)](https://skillicons.dev)
+[![Tech_Stack](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql)](https://skillicons.dev)
 
 # Project Structure
 
