@@ -198,7 +198,7 @@ EcoGauge/
 # Contributors
 - [Deviprasad Shetty](https://github.com/DeviprasadShetty9833) - Frontend & Backend
 - [Rupam Singh](https://github.com/Rupam0990) - Database & Backend
-
+- [Tayyabali Sayyed](https://github.com/tayyabsayyad) - Project Guide
 # Feedback:
 <br> I’d love to hear from you!
 <br> If you encounter any [Bugs](Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/EcoGauge/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
