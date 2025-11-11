@@ -21,6 +21,7 @@
 
 | EcoGauge Progress | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 |---|---|
+| Pending | 🔗 Website Deployment |
 
 ## <div align="center"> 🔗 Live Website: [EcoGauge]() </div>
 
