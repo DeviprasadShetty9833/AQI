@@ -22,6 +22,8 @@
 | EcoGauge Progress | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 |---|---|
 
+#### 🔗 Live Website: [EcoGauge]()
+
 # Objective 
 
 - To design and implement a unified, real-time monitoring dashboard that integrates and visualizes both Air Quality Index (AQI) and Noise Pollution Index (NPI) data across the Mumbai region.
