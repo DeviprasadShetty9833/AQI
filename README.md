@@ -168,6 +168,10 @@ EcoGauge/
 
 ```
 
+# ER Diagram 
+
+![image](assets/docs/ER_diag.jpg)
+
 # Future Scope 
 
 - Geographic Expansion: Scale the platform to include other major cities in Maharashtra (Pune, Nagpur) or across India
