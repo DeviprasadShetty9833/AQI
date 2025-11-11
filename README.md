@@ -168,7 +168,7 @@ EcoGauge/
 
 ```
 
-# ER Diagram 
+# Entity-Relationship(ER) Diagram 
 
 ![image](assets/docs/ER_diag.jpg)
 
