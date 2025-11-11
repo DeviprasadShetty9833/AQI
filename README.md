@@ -22,7 +22,7 @@
 | EcoGauge Progress | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 |---|---|
 
-## 🔗 Live Website: [EcoGauge]()
+## <div align="center"> 🔗 Live Website: [EcoGauge]() </div>
 
 # Objective 
 
