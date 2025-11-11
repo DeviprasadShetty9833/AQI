@@ -48,6 +48,7 @@
 
 #### Additional features 
 - User gets Reset Password Link on their Email
+- 24, 48, 72 hrs Weather Forecast & Prediction 
 
 ![image](assets/docs/Sys_Arch.jpg)
 
