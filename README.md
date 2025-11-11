@@ -43,6 +43,8 @@
 - Insights through Graphical dashboards
 - Report Generation
 
+![image](assets/docs/Sys_Arch.jpg)
+
 # Project Structure
 
 - [Structure](https://github.com/DeviprasadShetty9833/EcoGauge/blob/54f6c85e7c478bc6f42c2846425ad186341f1bb6/assets/docs/Structure.txt)
