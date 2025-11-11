@@ -46,6 +46,9 @@
 - Insights through Graphical dashboards
 - Report Generation
 
+#### Additional features 
+- User gets Reset Password Link on their Email
+
 ![image](assets/docs/Sys_Arch.jpg)
 
 # Tech Stack
