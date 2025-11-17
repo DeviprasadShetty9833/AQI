@@ -59,9 +59,7 @@
 Java, SpringBoot, Html, CSS, Js, MySQL, SpringSecurity, OAuth 2.0
 ```
 
-# Project Structure
-
-- [Structure](https://github.com/DeviprasadShetty9833/EcoGauge/blob/54f6c85e7c478bc6f42c2846425ad186341f1bb6/assets/docs/Structure.txt)
+# [Project Structure](https://github.com/DeviprasadShetty9833/EcoGauge/blob/54f6c85e7c478bc6f42c2846425ad186341f1bb6/assets/docs/Structure.txt)
 
 ```html
 Tree structure Example
