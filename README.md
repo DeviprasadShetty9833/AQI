@@ -35,58 +35,40 @@
 
 ### User
 
-<br> ![1.](https://img.shields.io/badge/1.-Real--time_Data-34A853?style=for-the-badge&labelColor=white)
+<br> ![1.](https://img.shields.io/badge/1.-Real--time_Data-34a952?style=for-the-badge&labelColor=white)
 <br> Access real-time air quality data with up-to-the-minute accuracy and monitoring.
 
-<br> ![2.](https://img.shields.io/badge/2.-Pollutant_Breakdowns-34A853?style=for-the-badge&labelColor=white)
+<br> ![2.](https://img.shields.io/badge/2.-Pollutant_Breakdowns-34a952?style=for-the-badge&labelColor=white)
 <br> Detailed pollutant breakdowns through comprehensive Application Programming Interface (APIs).
 
-<br> ![3.](https://img.shields.io/badge/3.-Data_Analytics-34A853?style=for-the-badge&labelColor=white)
+<br> ![3.](https://img.shields.io/badge/3.-Data_Analytics-34a952?style=for-the-badge&labelColor=white)
 <br> Advanced analytics including Regional Comparisons, Historical Trend analysis, and Geospatial Analysis.
 
-<br> ![4.](https://img.shields.io/badge/4.-Health_Recommendations-34A853?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Health_Recommendations-34a952?style=for-the-badge&labelColor=white)
 <br> Location-specific health recommendations based on current air quality conditions.
 
 ### Admin
 
-<br> ![5.](https://img.shields.io/badge/5.-Station_Management-34A853?style=for-the-badge&labelColor=white)
+<br> ![5.](https://img.shields.io/badge/5.-Station_Management-34a952?style=for-the-badge&labelColor=white)
 <br> Comprehensive management of station data with easy monitoring and control capabilities.
 
-<br> ![6.](https://img.shields.io/badge/6.-Threshold_Alerts-34A853?style=for-the-badge&labelColor=white)
+<br> ![6.](https://img.shields.io/badge/6.-Threshold_Alerts-34a952?style=for-the-badge&labelColor=white)
 <br> Instant threshold breach alerts to notify users when air quality parameters exceed safe limits.
 
-<br> ![7.](https://img.shields.io/badge/7.-Graphical_Dashboards-34A853?style=for-the-badge&labelColor=white)
+<br> ![7.](https://img.shields.io/badge/7.-Graphical_Dashboards-34a952?style=for-the-badge&labelColor=white)
 <br> Interactive graphical dashboards providing visual insights and data representation.
 
-<br> ![8.](https://img.shields.io/badge/8.-Report_Generation-34A853?style=for-the-badge&labelColor=white)
+<br> ![8.](https://img.shields.io/badge/8.-Report_Generation-34a952?style=for-the-badge&labelColor=white)
 <br> Automated report generation for comprehensive data analysis and documentation.
 
 ### Additional features 
 
-<br> ![9.](https://img.shields.io/badge/9.-Password_Recovery-34A853?style=for-the-badge&labelColor=white)
+<br> ![9.](https://img.shields.io/badge/9.-Password_Recovery-34a952?style=for-the-badge&labelColor=white)
 <br> Secure password recovery system sending reset links directly to user email addresses.
 
-<br> ![10.](https://img.shields.io/badge/10.-Weather_Forecast-34A853?style=for-the-badge&labelColor=white)
+<br> ![10.](https://img.shields.io/badge/10.-Weather_Forecast-34a952?style=for-the-badge&labelColor=white)
 <br> Extended weather forecasting with 24, 48, and 72-hour predictions for better planning.
 
-
-
-
-#### User
-- Real-time data
-- Pollutant breakdowns through Application Programming Interface (APIs)
-- Data analytics such as Regional Comparisons, Historical Trend analysis, Geospatial Analysis
-- Location-specific Health recommendations.
-
-#### Admin
-- Manage Station data
-- Threshold Breach Alerts
-- Insights through Graphical dashboards
-- Report Generation
-
-#### Additional features 
-- User gets Reset Password Link on their Email
-- 24, 48, 72 hrs Weather Forecast & Prediction 
 
 ![image](assets/docs/Sys_Arch.jpg)
 
@@ -113,7 +95,7 @@ EcoGauge/
 │   ├── aqi_map.html                   # Interactive AQI Map
 │   ├── npi_map.html                   # Interactive NPI Map
 │   ├── ranking.html                   # City/Station Rankings
-│   ├── feedback.html                  # User feedback form
+│   ├── feedback.html                # User feedback form
 │   ├── admin_dashboard.html           # Admin dashboard with analytics
 │   │
 │   ├── css/
