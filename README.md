@@ -37,10 +37,13 @@
 
 <br> ![1.](https://img.shields.io/badge/1.-Real--time_Data-34a952?style=for-the-badge&labelColor=white)
 <br> Access real-time air quality data with up-to-the-minute accuracy and monitoring.
+
 <br> ![2.](https://img.shields.io/badge/2.-Pollutant_Breakdowns-34a952?style=for-the-badge&labelColor=white)
 <br> Detailed pollutant breakdowns through comprehensive Application Programming Interface (APIs).
+
 <br> ![3.](https://img.shields.io/badge/3.-Data_Analytics-34a952?style=for-the-badge&labelColor=white)
 <br> Advanced analytics including Regional Comparisons, Historical Trend analysis, and Geospatial Analysis.
+
 <br> ![4.](https://img.shields.io/badge/4.-Health_Recommendations-34a952?style=for-the-badge&labelColor=white)
 <br> Location-specific health recommendations based on current air quality conditions.
 
@@ -48,10 +51,13 @@
 
 <br> ![5.](https://img.shields.io/badge/5.-Station_Management-34a952?style=for-the-badge&labelColor=white)
 <br> Comprehensive management of station data with easy monitoring and control capabilities.
+
 <br> ![6.](https://img.shields.io/badge/6.-Threshold_Alerts-34a952?style=for-the-badge&labelColor=white)
 <br> Instant threshold breach alerts to notify users when air quality parameters exceed safe limits.
+
 <br> ![7.](https://img.shields.io/badge/7.-Graphical_Dashboards-34a952?style=for-the-badge&labelColor=white)
 <br> Interactive graphical dashboards providing visual insights and data representation.
+
 <br> ![8.](https://img.shields.io/badge/8.-Report_Generation-34a952?style=for-the-badge&labelColor=white)
 <br> Automated report generation for comprehensive data analysis and documentation.
 
@@ -59,6 +65,7 @@
 
 <br> ![9.](https://img.shields.io/badge/9.-Password_Recovery-34a952?style=for-the-badge&labelColor=white)
 <br> Secure password recovery system sending reset links directly to user email addresses.
+
 <br> ![10.](https://img.shields.io/badge/10.-Weather_Forecast-34a952?style=for-the-badge&labelColor=white)
 <br> Extended weather forecasting with 24, 48, and 72-hour predictions for better planning.
 
