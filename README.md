@@ -198,7 +198,7 @@ EcoGauge/
 
 # Entity-Relationship(ER) Diagram 
 
-![image](assets/docs/ER_diag.png)
+![image](assets/docs/ER_Diag.png)
 
 # Future Scope 
 
