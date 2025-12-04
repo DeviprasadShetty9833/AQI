@@ -1,5 +1,5 @@
 
-# Backend Technology Selection Guide for Project Managers
+# Backend Technology Selection Guide 
 
 ## 1. Major Backend Technology Families
 
