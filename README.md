@@ -29,38 +29,48 @@
 ### User
 
 <br> ![1.](https://img.shields.io/badge/1.-Real--time_Data-34a952?style=for-the-badge&labelColor=white)
-<br> Access real-time air quality data with up-to-the-minute accuracy and monitoring.
+
+- Access real-time air quality data with up-to-the-minute accuracy and monitoring.
 
 <br> ![2.](https://img.shields.io/badge/2.-Pollutant_Breakdowns-34a952?style=for-the-badge&labelColor=white)
-<br> Detailed pollutant breakdowns through comprehensive Application Programming Interface (APIs).
+
+- Detailed pollutant breakdowns through comprehensive Application Programming Interface (APIs).
 
 <br> ![3.](https://img.shields.io/badge/3.-Data_Analytics-34a952?style=for-the-badge&labelColor=white)
-<br> Advanced analytics including Regional Comparisons, Historical Trend analysis, and Geospatial Analysis.
+
+- Advanced analytics including Regional Comparisons, Historical Trend analysis, and Geospatial Analysis.
 
 <br> ![4.](https://img.shields.io/badge/4.-Health_Recommendations-34a952?style=for-the-badge&labelColor=white)
-<br> Location-specific health recommendations based on current air quality conditions.
+
+- Location-specific health recommendations based on current air quality conditions.
 
 ### Admin
 
 <br> ![5.](https://img.shields.io/badge/5.-Station_Management-34a952?style=for-the-badge&labelColor=white)
-<br> Comprehensive management of station data with easy monitoring and control capabilities.
+
+- Comprehensive management of station data with easy monitoring and control capabilities.
 
 <br> ![6.](https://img.shields.io/badge/6.-Threshold_Alerts-34a952?style=for-the-badge&labelColor=white)
-<br> Instant threshold breach alerts to notify users when air quality parameters exceed safe limits.
+
+- Instant threshold breach alerts to notify users when air quality parameters exceed safe limits.
 
 <br> ![7.](https://img.shields.io/badge/7.-Graphical_Dashboards-34a952?style=for-the-badge&labelColor=white)
-<br> Interactive graphical dashboards providing visual insights and data representation.
+
+- Interactive graphical dashboards providing visual insights and data representation.
 
 <br> ![8.](https://img.shields.io/badge/8.-Report_Generation-34a952?style=for-the-badge&labelColor=white)
-<br> Automated report generation for comprehensive data analysis and documentation.
+
+- Automated report generation for comprehensive data analysis and documentation.
 
 ### Additional features 
 
 <br> ![9.](https://img.shields.io/badge/9.-Password_Recovery-34a952?style=for-the-badge&labelColor=white)
-<br> Secure password recovery system sending reset links directly to user email addresses.
+
+- Secure password recovery system sending reset links directly to user email addresses.
 
 <br> ![10.](https://img.shields.io/badge/10.-Weather_Forecast-34a952?style=for-the-badge&labelColor=white)
-<br> Extended weather forecasting with 24, 48, and 72-hour predictions for better planning.
+
+- Extended weather forecasting with 24, 48, and 72-hour predictions for better planning.
 
 ![image](assets/docs/Sys_Arch.jpg)
 
@@ -213,11 +223,14 @@ EcoGauge/
 - [Deviprasad Shetty](https://github.com/DeviprasadShetty9833) - Frontend & Backend
 - [Rupam Singh](https://github.com/Rupam0990) - Database & Backend
 - [Tayyabali Sayyed](https://github.com/tayyabsayyad) - Project Guide
+
 # Feedback:
-<br> I’d love to hear from you!
+
+I’d love to hear from you!
 <br> If you encounter any [Bugs](Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/EcoGauge/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
 
 # Support:
+
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
 
 ---
