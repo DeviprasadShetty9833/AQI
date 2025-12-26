@@ -227,7 +227,7 @@ EcoGauge/
 # Feedback:
 
 I’d love to hear from you!
-<br> If you encounter any [Bugs](Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/EcoGauge/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
+<br> If you encounter any [Issues](https://github.com/DeviprasadShetty9833/EcoGauge/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
 
 # Support:
 
