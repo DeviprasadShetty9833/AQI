@@ -26,7 +26,7 @@
 
 # Key features 
 
-### User
+### ❇️ User
 
 <br> ![1.](https://img.shields.io/badge/1.-Real--time_Data-34a952?style=for-the-badge&labelColor=white)
 
@@ -44,7 +44,7 @@
 
 - Location-specific health recommendations based on current air quality conditions.
 
-### Admin
+### ❇️ Admin
 
 <br> ![5.](https://img.shields.io/badge/5.-Station_Management-34a952?style=for-the-badge&labelColor=white)
 
@@ -62,7 +62,7 @@
 
 - Automated report generation for comprehensive data analysis and documentation.
 
-### Additional features 
+### ❇️ Additional features 
 
 <br> ![9.](https://img.shields.io/badge/9.-Password_Recovery-34a952?style=for-the-badge&labelColor=white)
 
