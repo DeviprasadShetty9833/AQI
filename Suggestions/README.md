@@ -15,5 +15,5 @@ This table lists all the key features of the project to be added, their status, 
 > - **Priority**: `Low`, `Medium`, `High`, `Critical`
 
 > [!NOTE]
-> - 1) To add a new feature, copy an existing row and modify the values.
-> - 2) Make sure to update the status.
+> - To add a new feature, copy an existing row and modify the values.
+> - Make sure to update the status.
