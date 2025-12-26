@@ -14,6 +14,6 @@ This table lists all the key features of the project to be added, their status, 
 > - **Status**: `Planned`, `Pending`, `In Progress`, `Completed`  
 > - **Priority**: `Low`, `Medium`, `High`, `Critical`
 
-> **Note**:
-> 1) To add a new feature, copy an existing row and modify the values.
-> 2) Make sure to update the status.
+> [!NOTE]
+> - 1) To add a new feature, copy an existing row and modify the values.
+> - 2) Make sure to update the status.
